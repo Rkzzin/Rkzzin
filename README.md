@@ -1,10 +1,12 @@
-### Hi there 👋
+### Hi there, I'm Henrique 👋
 
-I'm Henrique, a Software Engeneering student from Brazil.
+🇧🇷 Brazillian
 
-🦊 I’m currently studying on INSPER
+🦊 Currently studying Computer Engineering at INSPER
 
-🌱 I’m currently learning Java
+🌱 Learning Java and working on some projects
+
+💻 Since 2019 learning something new
 
 📫 How to reach me: henriquels5insper@gmail.com
 
